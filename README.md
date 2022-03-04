@@ -13,6 +13,10 @@ ChangGyun Kim - ck921@ic.ac.uk
 
 ### Match with Report
 - To match the content in report, search "Section X.X", e.g., "Section 3.1" to locate the code/implementation mentioned in the report.
+- We comment 
+  - "Section 2", "Section 2.1"
+  - "Section 3.1", "Section 3.2", "Section 3.3", "Section 3.4", "Section 3.5", "Section 3.6", "Section 3.7"
+  - "Section 4.1", "Section 4.2", "Section 4.3"
 
 ### Others
 - The code might a little bit messy because we comment a lot, and we wanna keep everything we tried in the code to show our effort :)
