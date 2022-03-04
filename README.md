@@ -1,5 +1,9 @@
 # NLP-CW
 
+### Group Member
+Yu Chen - yc1920@ic.a.cuk
+ChangGyun Kim - ck921@ic.ac.uk
+
 ### Run
 - No extra file needed, just instaill the packages required and run the code in the file.
 
